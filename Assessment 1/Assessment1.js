@@ -44,5 +44,7 @@ function getTotalSupply() {
 
 // call your functions below this line
 mintNFT("tracking", "fingerprinting", "ip address", "verifier");
+mintNFT("cookie", "browser version", "15.32.222.12", "real");
+mintNFT("access token", "region", "192.168.1.1", "local");
 listNFTs();
 getTotalSupply();
